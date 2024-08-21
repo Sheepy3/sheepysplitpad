@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "kicad library")(type "KiCad")(uri "F:/Sauce/sheepysplitpad/kicad library")(options "")(descr ""))
+  (lib (name "Button")(type "KiCad")(uri "F:/Sauce/sheepysplitpad/kicad library/Button.pretty")(options "")(descr ""))
+)

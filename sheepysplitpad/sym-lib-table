@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "COM-09032")(type "KiCad")(uri "F:/Sauce/sheepysplitpad/kicad library/COM-09032.kicad_sym")(options "")(descr ""))
+  (lib (name "mcu")(type "KiCad")(uri "F:/Sauce/sheepysplitpad/kicad library/mcu.kicad_sym")(options "")(descr ""))
+)
