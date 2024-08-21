@@ -1,1 +1,1 @@
-i wanted a splitpad to game on my iphone (oneplus 9) so i designed this baby. 1st version has clicky triggers because i cannot be asked to design analog ones at this time. In the future, i'll add rumble and analog triggers. 
+i wanted a splitpad to game on my iphone (oneplus 9) so i designed this baby. 1st version has clicky triggers because i cannot be asked to design analog ones at this time. In the future, i'll add rumble and analog triggers. oh and gyro :froth:
